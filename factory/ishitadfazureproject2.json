@@ -1,0 +1,15 @@
+{
+	"name": "ishitadfazureproject2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "442adc13-d53f-4ba2-9066-51ee8ccad5c8",
+		"tenantId": "40fc6179-cf92-4f92-9433-e720ff626f56"
+	}
+}
